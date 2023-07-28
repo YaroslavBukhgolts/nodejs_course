@@ -1,0 +1,3 @@
+console.log() - работает как в вебе, так и в nodejs
+require - только в nodejs
+alert - только в вебе
